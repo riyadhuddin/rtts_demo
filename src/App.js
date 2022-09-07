@@ -11,13 +11,14 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://iacdrops.xyz"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          this is a demo app for kubernetes deployment throughout aws, azure and gcp accrodingy
         </a>
       </header>
+      <p>Riyadh Uddin</p>
     </div>
   );
 }
